@@ -1,0 +1,6 @@
+main: me.thrisboss.partygames.Main
+name: PartyGames
+version: 2.0.0
+description: J'vous baise
+commands:
+    join:
